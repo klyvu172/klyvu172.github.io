@@ -97,16 +97,16 @@ body {
   }
   
   /* Hyperlink Styles */
-  a:first-child.hover{
+  a{
     color: #ffffff;
     margin: 5px 2px;
   }
   
-  a:nth-child(2) {
+  a :hover{
     color: #7CB3E9;
   }
   
-  a:last-child {
+  a :active{
     color: #8EC45B;
   }
   
